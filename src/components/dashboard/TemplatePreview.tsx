@@ -11,4 +11,8 @@ import {
   Copy
 } from 'lucide-react';
 
-[... restul codului TemplatePreview ...]
+const TemplatePreview = () => {
+  // ... rest of the component code
+};
+
+export default TemplatePreview;
